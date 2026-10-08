@@ -5,7 +5,23 @@ SCUtils is a library of simple utility functions.
 ## Table of Contents
 - [0. BP ModInfo](#0-bp_modinfo)
     - [0.1 Basic Information](#01-basic-information)
-
+    - [0.2 Advanced Information](#02-advanced-information)
+    - [0.3 Automation](#03-automation)
+    - [0.4 Get Functions](#04-get-functions)
+- [1. BPC GS Server Info](#1-bpc-gs-server-info)
+    - [Server Mod Info Replication](#11-server-mod-info-replication)
+    - [Client Mod Info Setup](#12-client-mod-info-setup)
+    - [Client Validate Server Mod Info](#13-client-validate-server-mod-infos)
+- [2. BPC Player Controller](#2-bpc-player-controller)
+    - [Client Report Version Errors](#21-client-report-version-errors)
+        - [Mod Version](#21a-mod-version-error)
+        - [Game Version](#21b-game-version-error)
+- [3. BPFL Utility](#3-bpfl-util)
+    - [Logging](#31-logging)
+    - [Add Component(s) by Class](#32-add-components-by-class)
+    - [Get Server Info Component](#33-get-server-info-component)
+    - [Get Controller SCU Component](#34-get-controller-scu-component)
+- [Credits](#credits)
 
 
 ## 0. BP ModInfo
