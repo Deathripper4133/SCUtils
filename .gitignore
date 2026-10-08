@@ -1,0 +1,12 @@
+#Ignore cook folder
+Saved
+
+#ignore third party assets
+Content/ThirdPartyAssets
+
+
+
+#WIP
+
+Content/Core/Input
+/Content/UI
